@@ -1,6 +1,6 @@
 # Для запуска проекта, необходимо выполнить следующие шаги:
 
-1. Склонировать репозиторий проекта по ссылке [https://github.com/brian7346/game-store](https://github.com/brian7346/game-store) на свой компьютер.
+1. Склонировать репозиторий проекта по ссылке [https://github.com/schoky/game-store-react.git](https://github.com/schoky/game-store-react.git) на свой компьютер.
 ```
 git clone 
 ```
