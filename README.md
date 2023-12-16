@@ -2,7 +2,7 @@
 
 1. Склонировать репозиторий проекта по ссылке [https://github.com/brian7346/game-store](https://github.com/brian7346/game-store) на свой компьютер.
 ```
-git clone https://github.com/brian7346/game-store.git
+git clone 
 ```
 
 2. Открыть терминал (или командную строку) и перейти в корневую директорию проекта.
@@ -12,12 +12,12 @@ cd game-store
 
 3. Установить зависимости для серверной части проекта. Введите следующую команду в терминале:
 ```
-npm install
+npm install & yarn install
 ```
 
 4. Запустить проект. Введите следующую команду в терминале:
 ```
-npm start
+npm start & yarn start
 ```
 
 5. Открыть браузер и перейти по адресу http://localhost:3000, чтобы увидеть запущенный проект.
