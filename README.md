@@ -1,3 +1,4 @@
+Версия Node 16.6.1
 # Для запуска проекта, необходимо выполнить следующие шаги:
 
 1. Склонировать репозиторий проекта по ссылке [https://github.com/schoky/game-store-react.git](https://github.com/schoky/game-store-react.git) на свой компьютер.
