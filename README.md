@@ -3,7 +3,7 @@
 
 1. Склонировать репозиторий проекта по ссылке [https://github.com/schoky/game-store-react.git](https://github.com/schoky/game-store-react.git) на свой компьютер.
 ```
-git clone 
+git clone https://github.com/schoky/game-store-react.git
 ```
 
 2. Открыть терминал (или командную строку) и перейти в корневую директорию проекта.
